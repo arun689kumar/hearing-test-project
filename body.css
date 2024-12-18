@@ -1,0 +1,46 @@
+/* Basic Styling */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+#main-page, #user-details-page, #instructions-page, #hearing-test-page, #conclusion-page {
+  padding: 20px;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#options-container {
+  margin-top: 20px;
+}
+
+.option-btn {
+  padding: 10px 20px;
+  font-size: 14px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#next-btn {
+  margin-top: 30px;
+}
+
+#retake-btn {
+  margin-top: 20px;
+}
+
+h1, h2 {
+  color: #4CAF50;
+}
